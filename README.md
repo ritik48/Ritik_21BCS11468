@@ -1,4 +1,4 @@
-## Car DealerShip (WebwizarDry)
+## Car DealerShip (WebwizarDry) live link: https://ritik48.github.io/Ritik_21BCS11468/
 
 ## Team
 
@@ -18,7 +18,7 @@ Contact: 7543867016
 
 --------------------------------
 
-Name: Sonu Kumar
+Name: [Sonu Kumar](https://github.com/ikrsonu)
 
 UID: 21BCS11475
 
