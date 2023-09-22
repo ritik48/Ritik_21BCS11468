@@ -18,7 +18,7 @@ Contact: 7543867016
 
 --------------------------------
 
-Name: Sonu Kumar
+Name: [Sonu Kumar](https://github.com/ikrsonu)
 
 UID: 21BCS11475
 
